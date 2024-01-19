@@ -1210,12 +1210,12 @@ p {
 
 @media only screen and (max-width: 768px) {
     .project-section-main-heading {
-        margin-left: 18px;
+        margin-left: 10px;
         margin-top: 245px;
-        font-size: 3rem;
+        font-size: 28px;
         font-weight: 800;
         font-family: fantasy;
-        letter-spacing: 17px;
+        letter-spacing: 14px;
         text-align: center;
     }
     .project-cards-section {
